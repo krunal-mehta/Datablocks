@@ -5,7 +5,7 @@ Created By:
 
 Last modified on: 11/04/2021
 Title: Distributed Database Project
-Ropic: Data Summarization
+Topic: Data Summarization
 '''
 
 
